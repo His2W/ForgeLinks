@@ -12,12 +12,12 @@ For setup and basic RPC or Field tutorials, use the [DOCUMENTATION](http://docs.
 For community support, join the [DISCORD](https://discord.gg/yzZwEYm) channel, this wouldn't be possible without you!
 
 
-- [Learning Forge](#learning-forge)
+- Learning Forge
   - [Videos](#videos)
   - [Tips](#tips)
   - [Fields](#fields)
   - [RPCs](#rpcs)
-- [Miscellaneous](#miscellaneous)
+- Miscellaneous
   - [Demo Projects](#demo-projects)
   - [Server Options](#server-options)
   - [Binary Messages](#binary-messages)
