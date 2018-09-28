@@ -33,7 +33,7 @@ For community support, join the [DISCORD](https://discord.gg/yzZwEYm) channel, t
 
 * <details>
     <summary>I'm getting a null reference exception?</summary>
-   Typically it would be 1 of 3 issues. 1 - You forgot to turn on Run in Background, 2 - you tried pressing the play button in the scene and not loading the Multiplayer Menu scene first (by double clicking it), 3 - you're not setting up the multiplayer menu scene as index 0 and the demo scene as index 1.
+   Typically it would be 1 of 3 issues. 1 - You forgot to turn on Run in Background, 2 - you tried pressing the play button in the scene and not loading the Multiplayer Menu scene first (IE: by double clicking it on Windows), 3 - you're not setting up the multiplayer menu scene as index 0 and the demo scene as index 1.
 </details>
 
 * <details>
